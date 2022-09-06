@@ -19,4 +19,7 @@ Blank ports:	2 on sides of probe head + 1 on top of probe head
 Maximum temperature:	325 K (approx. 52 °C)
 Achieved temperature:	< 2 K (sample holder)
 
-##
+## Economical aspects
+Total cost construction material: 31 000 CZK
+Total cost of workload: 18 500 CZK
+Difference of a single calibrated and uncalibarated sensor: 13 500 CZK
